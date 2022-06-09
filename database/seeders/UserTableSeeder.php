@@ -31,7 +31,7 @@ class UserTableSeeder extends Seeder
             'password'=>'$2y$10$Zi24.xicPUZfzCjJkCvL8u5YQjY83LVPNe/q6q/L429g/i0ojmTHO',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s'),
-            'mobile_number'=> '7257880045'
+            'mobile_number'=> '7257880046'
          ],
          [
             'name' => 'user3',
@@ -39,7 +39,7 @@ class UserTableSeeder extends Seeder
             'password'=>'$2y$10$Zi24.xicPUZfzCjJkCvL8u5YQjY83LVPNe/q6q/L429g/i0ojmTHO',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s'),
-            'mobile_number'=> '7257880045'
+            'mobile_number'=> '7257880047'
 
          ],
          [ 
@@ -48,7 +48,7 @@ class UserTableSeeder extends Seeder
             'password'=>'$2y$10$Zi24.xicPUZfzCjJkCvL8u5YQjY83LVPNe/q6q/L429g/i0ojmTHO',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s'),
-            'mobile_number'=> '7257880045'
+            'mobile_number'=> '7257880048'
          ],
          [
             'name' => 'user5',
@@ -56,7 +56,7 @@ class UserTableSeeder extends Seeder
             'password'=>'$2y$10$Zi24.xicPUZfzCjJkCvL8u5YQjY83LVPNe/q6q/L429g/i0ojmTHO',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s'),
-            'mobile_number'=> '7257880045'
+            'mobile_number'=> '7257880049'
          ]
        ]);
     }
