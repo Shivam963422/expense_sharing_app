@@ -28,7 +28,7 @@ Clone the project from git using terminal
 
 - run this command on terminal    php artisan migrate
 
-- run this command on terminal    php artisan migrate    
+- run this command on terminal    php artisan db:seed  
 
 - run this command on terminal    php artisan serve
 
